@@ -1,7 +1,7 @@
-.dialog-list {
-  width: 50%;
-}
-.full {
+.preloader {
   width: 100%;
-  height: calc(100% - 64px);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
